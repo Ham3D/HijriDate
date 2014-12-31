@@ -1,7 +1,11 @@
 {
   "name": "ham3d/hijri",
   "description": "Use Hijri Date in PHP",
-  "keywords": "Hijri , date , laravel",
+  "keywords": [
+    "Hijri",
+    "date",
+    "laravel"
+  ],
   "authors": [
     {
       "name": "Hamed Hojjaty",
